@@ -1,6 +1,12 @@
  <h1>CRUD Java Full Stack Application</h1>
   <p>This is a simple CRUD (Create, Read, Update, Delete) Full Stack Application built using React for the frontend and Java Spring Boot, Maven, and MySQL Workbench for the backend.</p>
 
+<img width="900" alt="image" src="https://github.com/AyushKumarBar/CRUD-1-fullstack/assets/95698835/7ecc0568-e1ff-4bfa-bbfb-ab88939cc49c">
+<img width="900" alt="image" src="https://github.com/AyushKumarBar/CRUD-1-fullstack/assets/95698835/f9584275-1148-4d4e-83eb-a63709770c2d">
+
+<img width="900" alt="image" src="https://github.com/AyushKumarBar/CRUD-1-fullstack/assets/95698835/bcce2ea9-8950-4cb9-85af-ee4cf3a6125f">
+<img width="900" alt="image" src="https://github.com/AyushKumarBar/CRUD-1-fullstack/assets/95698835/6c99feda-b600-4030-9c4f-c78cc8425f9e">
+
   <h2>Features:</h2>
   <ul>
     <li>Perform CRUD operations on a dataset using a user-friendly interface.</li>
@@ -43,5 +49,3 @@
   <h2>Contributing:</h2>
   <p>Contributions are welcome! Feel free to fork and submit pull requests to enhance the application.</p>
 
-  <h2>License:</h2>
-  <p>This project is licensed under the [Your License] license.</p>
